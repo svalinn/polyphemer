@@ -11,7 +11,7 @@ github_credentials = '/root/svalinn-polyphemer/gh.cred'
 batlab_user = 'dagmcci'
 batlab_scripts_url = 'https://github.com/svalinn/dagmc-ci/archive/master.zip'
 batlab_fetch_file = 'fetch/dagmc.git'
-batlab_run_spec = 'fludag.run-spec'
+batlab_run_spec = 'dagmc.run-spec'
 batlab_submit_cmd = './submit.sh'
 batlab_jobs_cache = '/var/www/dagmc.fuelcycle.org/jobs.cache'
 
